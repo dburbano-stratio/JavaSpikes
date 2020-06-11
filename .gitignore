@@ -1,0 +1,7 @@
+.idea
+out
+target
+JavaSpikes.iml
+.gitsecret/keys/random_seed
+!*.secret
+src/main/resources/email.properties
