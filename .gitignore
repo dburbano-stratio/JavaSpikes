@@ -5,3 +5,4 @@ JavaSpikes.iml
 .gitsecret/keys/random_seed
 !*.secret
 src/main/resources/email.properties
+src/main/java/EmailService.java
